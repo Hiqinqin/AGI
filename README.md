@@ -1,2 +1,2 @@
 # AGI
-Road to learn AGI as a freshman
+Road to learn AGI as a beginner
